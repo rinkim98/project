@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-처음작성하는 JSP문서
-
+main.jsp 파일 입니다.
 </body>
 </html>
